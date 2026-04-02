@@ -10,6 +10,7 @@ This project was built as part of practical training while studying desktop appl
 
 ---
 
+<<<<<<< HEAD
 ## 🏗 System Architecture
 
 This is a **Single Tier Architecture** application:
@@ -26,7 +27,6 @@ This is a **Single Tier Architecture** application:
    * Configuration settings
 
 ---
-
 ## 🛠 Technologies Used
 
 * C#
@@ -40,7 +40,6 @@ This is a **Single Tier Architecture** application:
 
 ### 🎮 Game Modes
 
-* Single Player (vs Computer)
 * Two Player (Player vs Player)
 * Arabic and English language support
 
