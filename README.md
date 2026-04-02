@@ -10,6 +10,7 @@ This project was built as part of practical training while studying desktop appl
 
 ---
 
+<<<<<<< HEAD
 ## 🏗 System Architecture
 
 This is a **Single Tier Architecture** application:
@@ -27,6 +28,8 @@ This is a **Single Tier Architecture** application:
 
 ---
 
+=======
+>>>>>>> 8cd4d7a4de31c05664623c9bfa8255cdeea0bfcb
 ## 🛠 Technologies Used
 
 * C#
@@ -40,7 +43,6 @@ This is a **Single Tier Architecture** application:
 
 ### 🎮 Game Modes
 
-* Single Player (vs Computer)
 * Two Player (Player vs Player)
 * Arabic and English language support
 
@@ -59,6 +61,25 @@ This is a **Single Tier Architecture** application:
 
 ---
 
+<<<<<<< HEAD
+=======
+## ⚙️ Installation & Setup 
+
+1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/ss24214859/Course-Abu-Hadhoud.git
+```
+
+2️⃣ Open the solution file in Visual Studio.
+
+3️⃣ Build and run the project.
+
+4️⃣ Select your preferred language and enjoy the game!
+
+---
+
+>>>>>>> 8cd4d7a4de31c05664623c9bfa8255cdeea0bfcb
 ## 📷 Screenshots
 
 ### 🎮 English - Player 1 Wins
