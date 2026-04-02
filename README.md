@@ -10,28 +10,6 @@ This project was built as part of practical training while studying desktop appl
 
 ---
 
-## 🏗 System Architecture
-
-The project follows a **3-Tier Architecture**:
-
-1. **Presentation Layer**
-
-   * Windows Forms UI
-   * Handles user interaction
-   * Language selection support
-
-2. **Business Logic Layer (BLL)**
-
-   * Game rules and logic
-   * Win/draw detection
-
-3. **Data Access Layer (DAL)**
-
-   * Game state management
-   * User preferences storage
-
----
-
 ## 🛠 Technologies Used
 
 * C#
