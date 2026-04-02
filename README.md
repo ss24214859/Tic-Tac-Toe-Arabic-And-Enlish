@@ -12,23 +12,18 @@ This project was built as part of practical training while studying desktop appl
 
 ## 🏗 System Architecture
 
-The project follows a **3-Tier Architecture**:
-
+This is a **Single Tier Architecture** application:
 1. **Presentation Layer**
-
    * Windows Forms UI
-   * Handles user interaction
-   * Language selection support
-
-2. **Business Logic Layer (BLL)**
-
-   * Game rules and logic
+   * Game board display
+   * Player interaction
+2. **Application Logic**
+   * Game rules
    * Win/draw detection
-
-3. **Data Access Layer (DAL)**
-
-   * Game state management
-   * User preferences storage
+   * Turn management
+3. **Data Storage**
+   * None (client-side game)
+   * Configuration settings
 
 ---
 
@@ -64,22 +59,6 @@ The project follows a **3-Tier Architecture**:
 
 ---
 
-## ⚙️ Installation & Setup
-
-1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/ss24214859/Course-Abu-Hadhoud.git
-```
-
-2️⃣ Open the solution file in Visual Studio.
-
-3️⃣ Build and run the project.
-
-4️⃣ Select your preferred language and enjoy the game!
-
----
-
 ## 📷 Screenshots
 
 ### 🎮 English - Player 1 Wins
@@ -96,6 +75,22 @@ git clone https://github.com/ss24214859/Course-Abu-Hadhoud.git
 
 ---
 
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/ss24214859/Tic-Tac-Toe-Arabic-And-Enlish.git
+```
+
+2️⃣ Open the solution file in Visual Studio.
+
+3️⃣ Build and run the project.
+
+4️⃣ Select your preferred language and enjoy the game!
+
+---
+
 ## 🚀 Future Enhancements
 
 * AI opponent with different difficulty levels
@@ -109,7 +104,7 @@ git clone https://github.com/ss24214859/Course-Abu-Hadhoud.git
 
 ## 👨‍💻 Author
 
-**Student**
+**Mohamed Shaaban**
 
 * GitHub: [https://github.com/ss24214859](https://github.com/ss24214859)
 
