@@ -45,7 +45,6 @@ The project follows a **3-Tier Architecture**:
 
 ### 🎮 Game Modes
 
-* Single Player (vs Computer)
 * Two Player (Player vs Player)
 * Arabic and English language support
 
@@ -64,7 +63,7 @@ The project follows a **3-Tier Architecture**:
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setup 
 
 1️⃣ Clone the repository
 
@@ -109,7 +108,7 @@ git clone https://github.com/ss24214859/Course-Abu-Hadhoud.git
 
 ## 👨‍💻 Author
 
-**Student**
+**Mohamed Shaaban**
 
 * GitHub: [https://github.com/ss24214859](https://github.com/ss24214859)
 
